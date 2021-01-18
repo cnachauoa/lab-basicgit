@@ -26,7 +26,7 @@ Fix the faulty in Counter reset(). All code changes and relevant commits must be
 
 
 
-<h2>Anwer the following questions</h2>
+<h2>Answer the following questions</h2>
 <ul>
   <li>What is different between fetch and pull?</li>
   <li>What is happen if dev2 or dev3 does not pull the code before committing and pushing to git?</li>
