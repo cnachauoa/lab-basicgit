@@ -24,6 +24,8 @@ Fix the faulty in Counter decrement(). All code changes and relevant commits mus
 <h3>Task 3: Reset Fix</h3>
 Fix the faulty in Counter reset(). All code changes and relevant commits must be performed on the master branch.
 
+<h2>Build & Run project on GitHub</h2>
+To see the result of building and running test on Github, you can click on Action tab. GitHub Action is CI-CD pipeline provided by GitHub. It is similar to other CI-CD pipeline platform e.g. Travis CI, Jenkins etc. In this project, there is a workflow already defined namely Github Classroom. This workflow is used for auto grading purpose. Every time you push the code on your repository, this workflow will be queued to execute automatically. You have to ensure that after your team made the last commit to fix all faults, the execution of this workflow runs successfully without any error. 
 
 
 <h2>Answer the following questions</h2>
