@@ -9,8 +9,8 @@ You must perform three tasks to fix faulty in the source code and make all tests
   		</ul>
   <li>Dev1,2,3 - performs task 1,2 and 3 seperately</li>
   <li>Dev1 - stage, commit and push your changes for task 1</li>
-  <li>Dev2 - fetch, pull to sync changes, then stage, commit and push your changes for task 2</li>
-  <li>Dev3 - fetch, pull to sync changes, then stage, commit and push your changes for task 3</li>
+  <li>Dev2 - fetch, commit, pull to sync changes, then stage, commit and push your changes for task 2</li>
+  <li>Dev3 - fetch, commit, pull to sync changes, then stage, commit and push your changes for task 3</li>
 </ol>
 
 
