@@ -25,14 +25,14 @@ Fix the faulty in Counter decrement(). All code changes and relevant commits mus
 ***Task 3: Reset Fix***
 Fix the faulty in Counter reset(). All code changes and relevant commits must be performed on the master branch.
 
-##Code Synchonisation
+<h2>Code Synchonisation</h2>
 When dev2 and dev3 try to commit and push the source code, the push should be fail and show the error as shown in the figure below. This is because dev1 has already push the source code to Git so the source code that dev2 and dev3 are not in sync with the code on the remote repository. Github does not allow you to push the source code for this reason and therefore give the rejected message.
 
 ![](rejected-commit.png)
 
 After you receive this rejection, you have to perform 'pull to merge' operation. This operation will combine the source code from the remote repository to your repository. Then, resolve any conflict if there is any and push the source code again. 
 
-##Build & Run project on GitHub
+<h2>Build & Run project on GitHub</h2>
 To see the result of building and running test on Github, you can click on Action tab. GitHub Action is CI-CD pipeline provided by GitHub. It is similar to other CI-CD pipeline platform e.g. Travis CI, Jenkins etc. In this project, there is a workflow already defined namely Github Classroom, as shown in the figure below. This workflow is used for auto grading purpose. Every time you push the code on your repository, this workflow will be queued to execute automatically. You have to ensure that after your team made the last commit to fix all faults, the execution of this workflow runs successfully without any error (as the figure below show the success execution of last run). 
 
 ![](github-action.png)
