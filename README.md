@@ -16,13 +16,13 @@ You must perform three tasks to fix faulty in the source code and make all tests
 
 
 
-#####Task 1: Increment Fix
+***Task 1: Increment Fix***
 Fix the faulty in Counter increment(). All code changes and relevant commits must be performed on the master branch.
 
-#####Task 2: Decrement Fix
+***Task 2: Decrement Fix***
 Fix the faulty in Counter decrement(). All code changes and relevant commits must be performed on the master branch.
 
-#####Task 3: Reset Fix
+***Task 3: Reset Fix***
 Fix the faulty in Counter reset(). All code changes and relevant commits must be performed on the master branch.
 
 ##Code Synchonisation
